@@ -1,0 +1,17 @@
+{
+  "Title": "Terry\u0027s Wacky Highway 2",
+  "Type": "map",
+  "Org": "local",
+  "Ident": "twh_2",
+  "Tags": null,
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null,
+  "Metadata": {
+    "ProjectTemplate": null
+  }
+}
