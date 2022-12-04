@@ -1,9 +1,9 @@
 {
-  "Title": "Terry\u0027s Wacky Highway 2",
+  "Title": "Devway",
   "Type": "map",
-  "Org": "local",
+  "Org": "gmodn",
   "Ident": "twh_2",
-  "Tags": null,
+  "Tags": "",
   "Schema": 1,
   "HasAssets": true,
   "AssetsPath": "",
