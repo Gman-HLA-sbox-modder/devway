@@ -13,8 +13,9 @@
   "RootNamespace": null,
   "Metadata": {
     "ProjectTemplate": null,
-    "Summary": "",
-    "Description": "",
-    "Public": true
+    "Summary": "A map testing size limitations and addon support for maps.",
+    "Description": "A map testing size limitations and addon support for maps. Inspired by Terry\u0027s Wacky Highway.",
+    "Public": true,
+    "ReplaceTags": "experimental"
   }
 }

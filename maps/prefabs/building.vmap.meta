@@ -1,12 +1,10 @@
 {
   "cloud_packages": [
     "randkassets.spooky_desk#10789",
-    "mdlresrc.facepunch_logo#6653",
     "gman.tv_01#1113"
   ],
   "game_packages": [],
   "addon_packages": [
-    "facepunch.ec_jump_pad",
     "devultj.beach_ball"
   ]
 }
